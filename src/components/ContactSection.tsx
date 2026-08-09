@@ -108,7 +108,7 @@ export const ContactSection: React.FC<ContactSectionProps> = ({
             </div>
 
             {/* Mascot footer badge */}
-            <div className="p-4 rounded-xl bg-slate-950 border border-white/10 flex items-center justify-between">
+            <div className="p-4 flex items-center justify-between">
               <DoodleLogo size="sm" variant="full" />
               <span className="text-[10px] font-mono text-slate-400 bg-slate-900 px-2 py-1 rounded">
                 STUDIO EST. 2024

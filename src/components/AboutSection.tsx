@@ -12,7 +12,7 @@ export const AboutSection: React.FC = () => {
           {/* Left Visual Mascot & Brand Identity Box */}
           <div className="lg:col-span-5 relative">
             <div className="rounded-2xl bg-gradient-to-b from-slate-900 via-slate-950 to-black border border-cyan-500/30 p-8 text-center shadow-2xl space-y-6">
-              <div className="p-6 rounded-xl bg-slate-950/80 border border-white/10 inline-block shadow-inner">
+              <div className="inline-block">
                 <DoodleLogo size="xl" variant="stacked" />
               </div>
 
